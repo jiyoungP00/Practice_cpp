@@ -1,8 +1,8 @@
 #include <iostream>
-using namespace std;
+using namespace std;  
 
-class Circle  
-{
+class Circle    
+{  
 public:
   int radius;
   double getArea();
